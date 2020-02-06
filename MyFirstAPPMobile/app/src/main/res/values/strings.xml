@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstAPPMobile</string>
+    <string name="digiteNome">Digite o seu nome</string>
+    <string name="digiteEmail">Digite o seu e-mail</string>
+</resources>
